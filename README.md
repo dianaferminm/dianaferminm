@@ -1,7 +1,7 @@
 <h1>Hi, I'm Diana! <br/></h1>
 
 <h2>👨‍💻 Projects:</h2>
-[Active Directory Bulk User Creation](https://github.com/dianaferminm/ActiveDirectoryLab)
+[Active Directory Bulk User Creation](https://github.com/dianaferminm/adhomelab.git)
 
 
 <h2> 🤳 Connect with me:</h2>
