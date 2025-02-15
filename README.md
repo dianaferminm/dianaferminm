@@ -1,7 +1,12 @@
 <h1>Hi, I'm Diana! <br/></h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👩‍💻 IT Projects:</h2>
+
 [Active Directory Bulk User Creation](https://github.com/dianaferminm/adhomelab.git)
+
+<h2>📺 YouTube Videos</h2>
+
+- [Setting Up a Simple Home Lab with Active Directory on Oracle VirtualBox | PowerShell User Creation](https://youtu.be/OMB-AJFgwPs)
 
 
 <h2> 🤳 Connect with me:</h2>
