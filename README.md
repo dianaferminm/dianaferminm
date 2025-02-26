@@ -4,6 +4,8 @@
 
 [Active Directory Bulk User Creation](https://github.com/dianaferminm/adhomelab.git)
 
+[Azure SOC Honeypot with Sentinel](https://github.com/dianaferminm/SIEMattackmaplab.git)
+
 <h2>📺 YouTube Videos</h2>
 
 - [Setting Up a Simple Home Lab with Active Directory on Oracle VirtualBox | PowerShell User Creation](https://youtu.be/OMB-AJFgwPs)
